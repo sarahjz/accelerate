@@ -24,7 +24,7 @@
  * @subpackage Accelerate Marketing
  * @since Accelerate Marketing 1.0
  */
-
+////*
 
  function create_custom_post_types() {
     register_post_type( 'case_studies',
